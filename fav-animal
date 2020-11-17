@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>favorite type of animal</title>
+</head>
+<body>
+    <h1>My favorite type of animal</h1>
+
+    <p>my favorite animal is dog<br>
+    Because they are so adorable<br>
+    They love human</p>
+    
+<img src="fav-animal.jpg" alt="cute puppies" width="350px" height="250px">
+</body>
+</html>
